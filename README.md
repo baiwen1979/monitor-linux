@@ -35,12 +35,3 @@ monitor-linux(:smiling_imp:)
         |--util.py              (工具类)
     |--run.py                   (程序入口)
 
-相关文章链接
----
-慕课网首发手记:http://www.imooc.com/article/251463
-
-自带BGM的博客:https://blog.csdn.net/s740556472/article/details/82890586
-
-初学者有学python的可以关注公众号哟！
-
-![migezatan](https://img-blog.csdnimg.cn/20181104164256754.png)
