@@ -1,12 +1,12 @@
 #coding = utf-8
 
 """
-@author: sy
+@author: baiwen1979
 
 @file: __init__.py.py
 
-@time: 2018/9/22 16:55
+@time: 2020/07/30 16:55
 
-@desc:
+@desc: 初始化
 
 """
