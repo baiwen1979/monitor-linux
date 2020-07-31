@@ -1,9 +1,9 @@
 # coding = utf-8
 
 """
-@author: sy
+@author: baiwen1979
 
-@file: gol.py
+@file: global_config.py
 
 @time: 2018/9/22 16:55
 
